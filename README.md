@@ -29,7 +29,7 @@
 class OscarGuerra:
     def __init__(self):
         self.role = "Analista de Sistemas Junior"
-        self.education = "Ingeniería de Sistemas"
+        self.education = "Estudiante de Ingeniería de Sistemas"
         self.interests = [
             "Software Engineering",
             "Microsoft Azure & Microsoft 365",
